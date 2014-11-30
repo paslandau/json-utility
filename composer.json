@@ -1,5 +1,5 @@
 {
-    "name": "paslandau/JsonUtility",
+    "name": "paslandau/json-utility",
     "license": "MIT",
     "description" : "Library to extend PHP core functions by common (missing) JSON functions",
     "authors": [

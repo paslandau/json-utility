@@ -19,14 +19,10 @@ The recommended way to install json-utility is through [Composer](http://getcomp
 Next, update your project's composer.json file to include JsonUtility:
 
     {
-        "repositories": [
-            {
-                "type": "git",
-                "url": "https://github.com/paslandau/json-utility.git"
-            }
-        ],
+        "repositories": [ { "type": "composer", "url": "http://packages.myseosolution.de/"} ],
+        "minimum-stability": "dev",
         "require": {
-             "paslandau/json-utility": "~0"
+             "paslandau/json-utility": "dev-master"
         }
     }
 

@@ -1,4 +1,14 @@
-## 0.1.1
+#todo
+
+- docu
+
+#dev-master
+
+##0.7.0
+
+ - updated dependencies (PHP ~7)
+
+### 0.1.1
 
  - updated repositories to local satis installation
 

@@ -16,7 +16,7 @@
 	    }
 	},
     "require" : {
-        "php": "~5.5|~7",
+        "php": ">=5.5"
         "peekmo/jsonpath": "~1.1"
     },
     "require-dev" : {
